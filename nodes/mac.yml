@@ -50,6 +50,7 @@ brew:
     - google-chrome
     - iterm2
     - karabiner
+    - kindle
     - kobito
     - mailplane
     - messenger-native
