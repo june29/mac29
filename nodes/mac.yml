@@ -37,7 +37,7 @@ brew:
     - rbenv
     - readline
     - ruby-build
-    - solr4
+    #- solr4
     - terminal-notifier
     - tig
     - tree
@@ -51,7 +51,7 @@ brew:
     - butter
     - dropbox
     - emacs
-    - firefox
+    #- firefox
     - flickr-uploadr
     - google-chrome
     - iterm2
