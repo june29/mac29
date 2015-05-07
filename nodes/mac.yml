@@ -7,12 +7,15 @@ brew:
   install_packages:
     - autoconf
     - brew-cask
+    - exiftool
+    - ffmpeg
     - freetype
     - gdbm
     - git
     - go
     - heroku-toolbelt
     - imagemagick
+    - imlib2
     - jpeg
     - jq
     - libpng
@@ -20,6 +23,9 @@ brew:
     - libxml2
     - libxslt
     - lv
+    - memcached
+    - mysql
+    - nkf
     - nvm
     - openssl
     - optipng
