@@ -26,6 +26,11 @@ execute "Install brew" do
   not_if "test $(which brew)"
 end
 
+# Install brew cask
+execute "Install brew cask" do
+  command "brew install caskroom/cask/brew-cask"
+end
+
 # Add Repositories
 node["brew"]["add_repositories"].each do |repository|
   execute "Add Repository" do
