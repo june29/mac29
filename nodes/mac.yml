@@ -9,6 +9,7 @@ brew:
     - brew-cask
     - exiftool
     - ffmpeg
+    - fpp
     - freetype
     - gdbm
     - git
