@@ -15,6 +15,7 @@ brew:
     - git
     - go
     - heroku-toolbelt
+    - hub
     - imagemagick
     - imlib2
     - jpeg
