@@ -13,6 +13,7 @@ brew:
     - freetype
     - gdbm
     - git
+    - gnuplot
     - go
     - heroku-toolbelt
     - hub
