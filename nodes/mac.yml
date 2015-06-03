@@ -44,6 +44,7 @@ brew:
     - terminal-notifier
     - tig
     - tree
+    - wget
     - xz
     - zsh
     - zsh-completions
