@@ -41,6 +41,7 @@ brew:
     - readline
     - ruby-build
     #- solr4
+    - sqlite3
     - terminal-notifier
     - tig
     - tree
