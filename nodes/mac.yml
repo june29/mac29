@@ -44,6 +44,7 @@ brew:
     - sqlite3
     - terminal-notifier
     - tig
+    - tmux
     - tree
     - wget
     - xz
