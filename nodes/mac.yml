@@ -69,6 +69,7 @@ brew:
     - launchrocket
     - mailplane
     - messenger-native
+    - qlmarkdown
     - skitch
     - skype
     - slack
