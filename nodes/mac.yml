@@ -41,6 +41,7 @@ brew:
     - postgresql
     - rbenv
     - readline
+    - redis
     - ruby-build
     - ssh-copy-id
     #- solr4
