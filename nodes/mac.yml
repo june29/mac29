@@ -5,6 +5,7 @@ brew:
     - homebrew/versions
     - peco/peco
   install_packages:
+    - ag
     - autoconf
     - brew-cask
     - editorconfig
