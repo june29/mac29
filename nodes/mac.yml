@@ -16,6 +16,7 @@ brew:
     - gdbm
     - git
     - gnuplot
+    - gnu-sed
     - go
     - heroku-toolbelt
     - hub
